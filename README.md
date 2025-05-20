@@ -1,4 +1,8 @@
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Hii+Everyone+🔥;ThatsMe+Ballsszz+XD;Say+Hii+xixi" alt="Typing SVG" />
+</p>
 
 ---
 
