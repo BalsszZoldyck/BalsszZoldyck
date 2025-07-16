@@ -21,7 +21,6 @@
 ---
 ## <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="60"> My Github stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalsszZoldyck&theme=highcontrast) <br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalsszZoldyck&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalsszZoldyck&theme=highcontrast) <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalsszZoldyck&theme=highcontrast) <br/>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalsszZoldyck&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalsszZoldyck&theme=highcontrast) <br/>
 
 ___
