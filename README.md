@@ -8,8 +8,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="60"> Connect with Me:
 
-
-[![Linkwithme](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bento.me/ballsszz/)
+<p align="center">
+<a href="https://t.me/Spasiiqballl"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white"/></a>
 
 ---
 
@@ -19,11 +19,9 @@
 <br><br>
 
 ---
-<br/>
+## <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="60"> My Github stats:
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/BalsszZoldyck/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalsszZoldyck&theme=highcontrast) <br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalsszZoldyck&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalsszZoldyck&theme=highcontrast) <br/>
+
+___
