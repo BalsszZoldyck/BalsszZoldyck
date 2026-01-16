@@ -1,7 +1,15 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Hii+Everyone+🔥;ThatsMe+Ballsszz+XD;Say+Hii+xixi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=435&lines=🔥+Hii+Everyone+🔥;ThatsMe+ ______   _        _       _______  _______  _______  _______           ______  
+(  ___ \ ( \      ( \     (  ____ \(  ____ \/ ___   )/ ___   )|\     /|(  __  \ 
+| (   ) )| (      | (     | (    \/| (    \/\/   )  |\/   )  |( \   / )| (  \  )
+| (__/ / | |      | |     | (_____ | (_____     /   )    /   ) \ (_) / | |   ) |
+|  __ (  | |      | |     (_____  )(_____  )   /   /    /   /   ) _ (  | |   | |
+| (  \ \ | |      | |           ) |      ) |  /   /    /   /   / ( ) \ | |   ) |
+| )___) )| (____/\| (____/Y\____) |/\____) | /   (_/\ /   (_/\( /   \ )| (__/  )
+|/ \___/ (_______/(_______|_______)\_______)(_______/(_______/|/     \|(______/ 
+                                                                                " alt="Typing SVG" />
 </p>
 
 ---
